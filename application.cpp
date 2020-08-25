@@ -1,7 +1,7 @@
 #include <iostream>
 #include <fstream>
 #include <string>
-#include <curses.h>
+#include <ncurses.h>
 
 void mainMenu();
 void drawMainMenu();
